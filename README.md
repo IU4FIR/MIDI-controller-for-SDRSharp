@@ -1,1 +1,1 @@
-# MIDI controller for SDRSharp
+# MIDI controller for #SDRSharp
